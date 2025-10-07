@@ -1,0 +1,136 @@
+h1 {
+  display: none;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 992px;
+  background-color: rgb(233, 226, 221);
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1105px;
+  margin-left: 1077px;
+  width: 992px;
+  background-color: rgb(158, 85, 29);
+}
+
+img {
+  position: relative;
+  width: 80px;
+  left: 480px;
+  top: -8px;
+}
+
+a {
+  text-decoration: none;
+  color: #dfd8df;
+  font-size: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  margin-left: 10px;
+}
+
+li {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+h2 {
+  position: relative;
+  white-space: nowrap;
+  right: 700px;
+  font-size: 40px;
+  color: rgb(158, 85, 29);
+}
+
+span {
+  color: rgb(67, 42, 23);
+}
+
+.banner {
+  position: relative;
+  width: 992px;
+  left: -992px;
+  border-radius: 5px;
+}
+
+.circulo {
+  width: 160px;
+  height: 160px;
+  background-color: rgb(67, 42, 23);
+  border-radius: 50%;
+  position: relative;
+  top: -200px;
+  right: 907px;
+  opacity: 0.9;
+}
+
+.texto {
+  position: relative;
+  top: 40px;
+  left: 20px;
+  color: bisque;
+}
+
+.box {
+  width: 400px;
+}
+
+.esquerda {
+  position: relative;
+  left: -940px;
+  top: -170px;
+  text-align: left;
+}
+.direita {
+  float: right;
+  position: relative;
+  left: -500px;
+  bottom: 240px;
+  text-align: right;
+}
+
+.cafe {
+  position: relative;
+  left: -960px;
+  float: left;
+  top: -170px;
+}
+
+.boxDois {
+  width: 400px;
+}
+
+.mapa {
+  position: relative;
+  left: -420px;
+  float: right;
+  top: -300px;
+}
+
+#cor {
+  color: rgb(67, 42, 23);
+  font-size: 20px;
+}
+
+#corDois {
+  color: rgb(67, 42, 23);
+  font-size: 20px;
+}
+
+.spanDois {
+  color: rgb(67, 42, 23);
+  font-weight: bold;
+  text-decoration: underline;
+}
